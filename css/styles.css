@@ -84,7 +84,7 @@ ul, ol {
     padding: 24px 0 24px;
 }
 
-.link {
+.nav-link {
     color: #2e2f42;
     padding: 24px 0;
 }
@@ -140,7 +140,6 @@ ul, ol {
     margin-right: auto;
     margin-left: auto;
     margin-bottom: 48px;
-    padding: auto;
 }
 
 .button {
